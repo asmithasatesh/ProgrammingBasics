@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgramming", "BasicProgramming\BasicProgramming.csproj", "{D8FE76C6-2896-48D0-BCE8-9B9B28A7D266}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicProgramming", "BasicProgramming\BasicProgramming.csproj", "{D8FE76C6-2896-48D0-BCE8-9B9B28A7D266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSConcepts", "OOPSConcepts\OOPSConcepts.csproj", "{C5B51CD6-DDF8-42B7-BD24-BD0D5F285A8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D8FE76C6-2896-48D0-BCE8-9B9B28A7D266}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8FE76C6-2896-48D0-BCE8-9B9B28A7D266}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8FE76C6-2896-48D0-BCE8-9B9B28A7D266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B51CD6-DDF8-42B7-BD24-BD0D5F285A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B51CD6-DDF8-42B7-BD24-BD0D5F285A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B51CD6-DDF8-42B7-BD24-BD0D5F285A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B51CD6-DDF8-42B7-BD24-BD0D5F285A8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

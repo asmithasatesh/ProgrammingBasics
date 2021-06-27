@@ -13,18 +13,18 @@ namespace BasicProgramming
             //Type Casting
             //Implicit Type casting float -> double
             Console.WriteLine("Implicit Type casting float -> double");
-            float floatnum = 12.3F;
-            double doublenum = floatnum;
-            Console.WriteLine(doublenum);
+            float floatNum = 12.3F;
+            double doubleNum = floatNum;
+            Console.WriteLine(doubleNum);
             //Explicit Type casting double -> int
             Console.WriteLine("Explicit Type casting double -> int ");
-            int intnum = (Int32)doublenum;
-            Console.WriteLine(intnum);
+            int intNum = (Int32)doubleNum;
+            Console.WriteLine(intNum);
             Console.WriteLine("\n");
 
             //Bitwise And(&) operator
             Console.WriteLine("Bitwise And(&) operator: 4 & 12 = ");
-            Console.WriteLine(4 & Convert.ToInt32(floatnum));
+            Console.WriteLine(4 & Convert.ToInt32(floatNum));
             Console.WriteLine("\n");
 
             //Logical OR(||) operator
